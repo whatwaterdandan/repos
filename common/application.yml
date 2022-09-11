@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://127.0.0.1:54321/gis
+    url: jdbc:postgresql://127.0.0.1:5432/gis
     username: gis
     password: 123456
     type: com.alibaba.druid.pool.DruidDataSource
